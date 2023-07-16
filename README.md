@@ -10,8 +10,7 @@
 </div>
 
 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=WalterSantana07&theme=gotham)
-</p>
+![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=WalterSantana07&theme=gotham)</p>
 <div align="center">
   
   <img src="https://github-profile-trophy.vercel.app/?username=WalterSantana07&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
