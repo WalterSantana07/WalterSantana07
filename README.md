@@ -52,10 +52,12 @@
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{WalterSantana07}/count.svg" /></p> 
-<br></div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+  
+  <h3>Visitors Count</h3>
+  <p align="center">
+    <img align="center" src="https://profile-counter.glitch.me/WalterSantana07/count.svg" alt="Visitors Count" />
+  </p>
 
-
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+</div>
 
