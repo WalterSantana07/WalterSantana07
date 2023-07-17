@@ -11,6 +11,7 @@
 
 
 ![Github activity_graph](https://github-readme-activity-graph.cyclic.app/graph?username=WalterSantana07&theme=gotham)</p>
+
 <div align="center">
   
   <img src="https://github-profile-trophy.vercel.app/?username=WalterSantana07&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
@@ -51,12 +52,16 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
-<div align="center">
-  
-  <h3>Visitors Count</h3>
-  <p align="center">
-    <img align="center" src="https://profile-counter.glitch.me/WalterSantana07/count.svg" alt="Visitors Count" />
-  </p>
+ <
+<div>
+    <h3>Visitors Count</h3>
+    <p align="center">
+      <img align="center" src="https://profile-counter.glitch.me/WalterSantana07/count.svg" alt="Visitors Count" />
+    </p>
+  </div>
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+  
+
+ 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 </div>
